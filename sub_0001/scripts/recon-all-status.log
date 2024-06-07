@@ -1,0 +1,81 @@
+status file for recon-all
+Fri Jun  7 09:46:37 CEST 2024
+#@# MotionCor Fri Jun  7 09:46:41 CEST 2024
+#@# Talairach Fri Jun  7 09:46:53 CEST 2024
+#@# Talairach Failure Detection Fri Jun  7 09:49:44 CEST 2024
+#@# Nu Intensity Correction Fri Jun  7 09:49:44 CEST 2024
+#@# Intensity Normalization Fri Jun  7 09:52:27 CEST 2024
+#@# Skull Stripping Fri Jun  7 09:53:43 CEST 2024
+#@# EM Registration Fri Jun  7 10:01:22 CEST 2024
+#@# CA Normalize Fri Jun  7 10:06:40 CEST 2024
+#@# CA Reg Fri Jun  7 10:07:26 CEST 2024
+#@# SubCort Seg Fri Jun  7 11:43:50 CEST 2024
+#@# CC Seg Fri Jun  7 12:23:17 CEST 2024
+#@# Merge ASeg Fri Jun  7 12:23:41 CEST 2024
+#@# Intensity Normalization2 Fri Jun  7 12:23:41 CEST 2024
+#@# Mask BFS Fri Jun  7 12:25:36 CEST 2024
+#@# WM Segmentation Fri Jun  7 12:25:37 CEST 2024
+#@# Fill Fri Jun  7 12:27:31 CEST 2024
+#@# Tessellate lh Fri Jun  7 12:28:24 CEST 2024
+#@# Tessellate rh Fri Jun  7 12:28:28 CEST 2024
+#@# Smooth1 lh Fri Jun  7 12:28:32 CEST 2024
+#@# Smooth1 rh Fri Jun  7 12:28:35 CEST 2024
+#@# Inflation1 lh Fri Jun  7 12:28:37 CEST 2024
+#@# Inflation1 rh Fri Jun  7 12:28:56 CEST 2024
+#@# QSphere lh Fri Jun  7 12:29:14 CEST 2024
+#@# QSphere rh Fri Jun  7 12:31:17 CEST 2024
+#@# Fix Topology lh Fri Jun  7 12:33:24 CEST 2024
+#@# Fix Topology rh Fri Jun  7 12:35:52 CEST 2024
+#@# Smooth2 lh Fri Jun  7 12:48:19 CEST 2024
+#@# Smooth2 rh Fri Jun  7 12:48:22 CEST 2024
+#@# Inflation2 lh Fri Jun  7 12:48:25 CEST 2024
+#@# Inflation2 rh Fri Jun  7 12:48:47 CEST 2024
+#@# Curv .H and .K lh Fri Jun  7 12:49:09 CEST 2024
+#@# Curv .H and .K rh Fri Jun  7 12:49:49 CEST 2024
+#@# Sphere lh Fri Jun  7 12:50:30 CEST 2024
+#@# Sphere rh Fri Jun  7 12:58:54 CEST 2024
+#@# Surf Reg lh Fri Jun  7 13:07:52 CEST 2024
+#@# Surf Reg rh Fri Jun  7 13:15:06 CEST 2024
+#@# Jacobian white lh Fri Jun  7 13:22:35 CEST 2024
+#@# Jacobian white rh Fri Jun  7 13:22:36 CEST 2024
+#@# AvgCurv lh Fri Jun  7 13:22:37 CEST 2024
+#@# AvgCurv rh Fri Jun  7 13:22:38 CEST 2024
+#@# Cortical Parc lh Fri Jun  7 13:22:39 CEST 2024
+#@# Cortical Parc rh Fri Jun  7 13:22:49 CEST 2024
+#@# white curv lh Fri Jun  7 13:36:49 CEST 2024
+#@# white area lh Fri Jun  7 13:36:51 CEST 2024
+#@# pial curv lh Fri Jun  7 13:36:52 CEST 2024
+#@# pial area lh Fri Jun  7 13:36:54 CEST 2024
+#@# thickness lh Fri Jun  7 13:36:55 CEST 2024
+#@# area and vertex vol lh Fri Jun  7 13:37:23 CEST 2024
+#@# white curv rh Fri Jun  7 13:37:25 CEST 2024
+#@# white area rh Fri Jun  7 13:37:27 CEST 2024
+#@# pial curv rh Fri Jun  7 13:37:28 CEST 2024
+#@# pial area rh Fri Jun  7 13:37:29 CEST 2024
+#@# thickness rh Fri Jun  7 13:37:30 CEST 2024
+#@# area and vertex vol rh Fri Jun  7 13:37:59 CEST 2024
+#@# Curvature Stats lh Fri Jun  7 13:38:01 CEST 2024
+#@# Curvature Stats rh Fri Jun  7 13:38:04 CEST 2024
+#@# Cortical ribbon mask Fri Jun  7 13:38:06 CEST 2024
+#@# Cortical Parc 2 lh Fri Jun  7 13:44:59 CEST 2024
+#@# Cortical Parc 2 rh Fri Jun  7 13:45:12 CEST 2024
+#@# Cortical Parc 3 lh Fri Jun  7 13:45:25 CEST 2024
+#@# Cortical Parc 3 rh Fri Jun  7 13:45:35 CEST 2024
+#@# WM/GM Contrast lh Fri Jun  7 13:45:45 CEST 2024
+#@# WM/GM Contrast rh Fri Jun  7 13:45:49 CEST 2024
+#@# Relabel Hypointensities Fri Jun  7 13:45:52 CEST 2024
+#@# APas-to-ASeg Fri Jun  7 13:46:07 CEST 2024
+#@# AParc-to-ASeg aparc Fri Jun  7 13:46:20 CEST 2024
+#@# AParc-to-ASeg aparc.a2009s Fri Jun  7 13:49:36 CEST 2024
+#@# AParc-to-ASeg aparc.DKTatlas Fri Jun  7 13:52:51 CEST 2024
+#@# WMParc Fri Jun  7 13:56:13 CEST 2024
+#@# Parcellation Stats lh Fri Jun  7 14:03:18 CEST 2024
+#@# Parcellation Stats rh Fri Jun  7 14:03:40 CEST 2024
+#@# Parcellation Stats 2 lh Fri Jun  7 14:04:00 CEST 2024
+#@# Parcellation Stats 2 rh Fri Jun  7 14:04:12 CEST 2024
+#@# Parcellation Stats 3 lh Fri Jun  7 14:04:24 CEST 2024
+#@# Parcellation Stats 3 rh Fri Jun  7 14:04:35 CEST 2024
+#@# ASeg Stats Fri Jun  7 14:04:46 CEST 2024
+#@# BA_exvivo Labels lh Fri Jun  7 14:08:10 CEST 2024
+#@# BA_exvivo Labels rh Fri Jun  7 14:11:24 CEST 2024
+recon-all -s sub_0001 finished without error at Fri Jun  7 14:14:36 CEST 2024

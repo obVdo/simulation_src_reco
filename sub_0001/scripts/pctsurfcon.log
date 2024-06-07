@@ -1,0 +1,9 @@
+Logfile for pctsurfcon
+Fri Jun  7 13:45:49 CEST 2024
+setenv SUBJECTS_DIR /home/hp/Documents/AUDITORY_MEG/CTFDATASET
+cd /home/hp/Documents/AUDITORY_MEG/CTFDATASET/sub_0001/scripts
+/home/hp/Documents/AUDITORY_MEG/freesurfer/bin/pctsurfcon
+pctsurfcon 7.3.2
+Linux hp-OMEN-Laptop-15-ek0xxx 5.15.0-107-generic #117~20.04.1-Ubuntu SMP Tue Apr 30 10:35:57 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux
+FREESURFER_HOME /home/hp/Documents/AUDITORY_MEG/freesurfer
+Cleaning up

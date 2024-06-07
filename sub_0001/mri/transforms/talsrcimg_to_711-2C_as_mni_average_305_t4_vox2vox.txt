@@ -1,0 +1,7 @@
+# AZS
+# compute_vox2vox talsrcimg talsrcimg_to_711-2C_as_mni_average_305_t4 /home/hp/Documents/AUDITORY_MEG/freesurfer/average/711-2C_as_mni_average_305
+# freesurfer compute_vox2vox.c
+  0.898340  0.029751 -0.008213   10.8690
+  0.004017  0.945304  0.099313  -12.8149
+  0.021755 -0.082984  0.990427   23.6158
+  0.000000  0.000000  0.000000    1.0000

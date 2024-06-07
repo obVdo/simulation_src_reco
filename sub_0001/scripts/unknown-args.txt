@@ -1,0 +1,5 @@
+-i
+/home/hp/Documents/AUDITORY_MEG/CTFDATASET/sub-0001/anat/sub-01_T1w.nii
+-s
+sub_0001
+-all
